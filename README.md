@@ -1,10 +1,10 @@
 ### Hi there, I am Soo 👋
 
 - 👩🏻‍💻 I’m currently looking for a co-op job on January 2023.
-- 🔭 I’m currently studying Computer Systems Technology at BCIT
-- 🌱 I am currently learning React
+- ✏️ I’m currently studying Computer Systems Technology at BCIT
+- 🌱 I'm actively learning Java and React framework
 - ✈️ I'm based in Vancouver, BC
-- ⚡ Fun fact: I graduated university major in Electronic Engineering in South Korea
+- ⚡ Fun fact: I originally majored in Electronic Engineering in Korea
 
 ### 🤝 Connect with me:
 - LinkedIn: https://linkedin.com/in/soohyeunp
