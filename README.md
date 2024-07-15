@@ -1,15 +1,15 @@
 ### Hi there, I am Soo 👋
 
-- 👩🏻‍💻 I’m currently looking for a job on May 2024.
-- ✏️ I’m currently studying Computer Systems Technology at BCIT
-- 🌱 I'm actively learning Java and React framework
+- 👩🏻‍💻 I’m currently looking for a job for a software engineer.
+- ✏️ I’m a recent graduate from Computer Systems Technology at BCIT
+- 🌱 I'm actively learning React framework
 - ✈️ I'm based in Vancouver, BC
 - ⚡ Fun fact: I originally majored in Electronic Engineering in Korea
 
 ### 🤝 Connect with me:
 - Homepage: https://soopark.netlify.app/
 - LinkedIn: https://linkedin.com/in/soohyeunp
-- Email: spark308@my.bcit.ca
+- Email: soohyeunp@gmail.com
 
 
 ### 💻 Technical Skills 
