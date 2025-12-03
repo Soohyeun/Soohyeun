@@ -3,7 +3,7 @@
 - 👩🏻‍💻 I’m a full stack software engineer with +1 year of professional experience using TypeScript, React, and NestJS
 - ✏️ I’m a graduate from Computer Systems Technology at BCIT specialized in Predictive Analytics where I experienced training predictive model using Python
 - ✈️ I'm based in Vancouver, BC
-- ⚡ Fun fact: I originally majored in Electronic Engineering and worked as an Electrical Engineer for +4years in Korea (Logical Thinker💡)
+- ⚡ Fun fact: I originally majored in Electronic Engineering and worked as an Electrical Engineer for + 4 years before (Logical Thinker💡)
 
 ### 🤝 Connect with me:
 - Homepage: https://soopark.netlify.app/
